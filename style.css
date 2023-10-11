@@ -1,6 +1,7 @@
 body {
-    background-color: lightgreen;
+    background-color: lightblue;
     font-family: Calibri;
+    font-size: 30px;
     padding: 5px;
-    border: 3px solid red;
+    border: 3px solid yellow;
 }
